@@ -7,7 +7,7 @@ function initialize() {
     });
   var layer = new google.maps.KmlLayer({
     // url: "http://www.google.com/maps/d/kml?mid=zNPjLbo835mE.k3TvWfqGG-AU",
-    url: "http://www.google.com/maps/d/kml?forcekml=1&mid=1-mpfnFjp1e5JJ1YkSBjE6ZX_d9w",
+    url: "https://www.google.com/maps/d/u/1/kml?mid=1aFpKFTFbz5SMt3ob-JKEPiiZY9O-Nurq",
     map: map
   })
 
